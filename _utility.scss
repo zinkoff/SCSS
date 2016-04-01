@@ -11,26 +11,6 @@ u {text-decoration: underline;}
 .sans{font-family:sans-serif;}
 .serif{font-family:serif;}
 
-/*	colors	*/
-$red:#ff0000;
-$orange:#ff7600;
-$blue:#01939a;
-$green:#00ff00;
-
-.red{color:$red;}
-.orange{color:$orange;}
-.blue{color:$blue;}
-.green{ color:$green;}
-.bg-dark {background:$dark-gray;}
-.bg-yellow{background:yellow;}
-.bg-red{background:red;}
-.bg-blue{background:blue;}
-.bg-green{background:green;}
-.bg-orange{background:orange;}
-.bg-pink{background:pink;}
-.bg-brown{background:brown;}
-.bg-purple{background:purple;}
-
 /* 	mixins  	*/
 
 @mixin mixin-mw($min-width) {
