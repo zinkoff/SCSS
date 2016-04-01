@@ -17,6 +17,18 @@ $tuatara     : #444444;
 $oil         : #333333;
 $jet         : #222222;
 $black       : #000000;
+/*	colors	*/
+$blue: #01939a;//#00F
+$brown:#963;
+$cyan:#0FF;
+$green: #00ff00;
+$magenta:#F0F;
+$orange: #ff7600;//#FF8000
+$purple:#800080;
+$red: #ff0000;
+$yellow: #00FFFF;
+$pink: #FFDCFF;
+
 
 //We use these as default colors throughout
 $primary-color: #008CBA;
@@ -51,3 +63,20 @@ $info-color: #a0d3e8;
 .bg-success-color{background:$success-color;}//:#43AC6A;
 .bg-warning-color{background:$warning-color;}//:#f08a24;
 .bg-info-color{background:$info-color;}//:#a0d3e8;
+.bg-dark {background:$dark-gray;}
+.bg-blue{background:$blue;}
+.bg-brown{background:$brown;}
+.bg-cyan{background:$cyan;}
+.bg-green{background:$green;}
+.bg-magenta{background:$magenta;}
+.bg-orange{background:$orange;}
+.bg-pink{background:$pink;}
+.bg-purple{background:$purple;}
+.bg-red{background:$red;}
+.bg-yellow{background:$yellow;}
+
+
+
+
+
+
